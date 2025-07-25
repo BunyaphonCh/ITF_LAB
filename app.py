@@ -1,1 +1,2 @@
-print("Hello_sec01")
+message = "Hello, ITF-Lab"
+print(message)
